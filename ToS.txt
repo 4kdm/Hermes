@@ -1,0 +1,44 @@
+# Hermes – Terms of Service (ToS)
+
+**Bot Name:** Hermes  
+**Discord Username:** Hermess
+
+**Last Updated:** November 18, 2026
+
+## 1. Private Access
+Hermes is a private Discord bot connected to a locally hosted AI system. Access is strictly limited to the bot owner and one specifically whitelisted user.
+
+Unauthorized users are not permitted to use, interact with, or attempt to access Hermes.
+
+## 2. Acceptable Use
+Whitelisted users agree to:
+- Use Hermes responsibly and respectfully.
+- Not intentionally exploit, abuse, or disrupt the bot.
+- Not attempt to bypass access restrictions or security measures.
+- Not use Hermes for illegal or harmful activities.
+
+## 3. AI-Generated Content
+Hermes uses an AI model to generate responses. Its outputs may occasionally be inaccurate, incomplete, or misleading.
+
+Users are responsible for reviewing AI-generated content and should not blindly rely on it.
+
+## 4. Privacy & Data
+Hermes operates through a locally hosted AI setup. Conversations and data may be processed or stored locally depending on the system's configuration.
+
+Users should avoid sharing passwords, sensitive personal information, or other confidential data.
+
+## 5. Availability
+Hermes is a personal project and is provided as-is, without guarantees of uptime, reliability, or continued availability.
+
+The bot may be modified, restarted, or taken offline at any time.
+
+## 6. Access Revocation
+The owner reserves the right to remove a user's whitelist access at any time, without prior notice or explanation.
+
+## 7. Changes to These Terms
+These Terms of Service may be updated at any time. Continued use of Hermes after changes are made constitutes acceptance of the updated terms.
+
+## 8. Agreement
+By using Hermes, you acknowledge that you have read and agreed to these Terms of Service.
+
+**Hermes is a private, personal AI project, not a publicly available service.**
