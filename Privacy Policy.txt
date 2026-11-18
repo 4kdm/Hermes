@@ -1,0 +1,62 @@
+# Hermes – Privacy Policy
+
+**Bot Name:** Hermes  
+**Discord Username:** Hermess
+
+**Last Updated:** November 18, 2026
+
+## 1. Introduction
+Hermes is a private Discord bot connected to a locally hosted AI system. It is intended exclusively for the bot owner and one whitelisted user.
+
+This Privacy Policy explains what information may be processed when interacting with Hermes.
+
+## 2. Information Collected
+Hermes may process the following information:
+- Discord usernames and user IDs for whitelist verification.
+- Messages sent to the bot.
+- Commands and interactions with the bot.
+- Information provided by users during conversations.
+- Technical logs generated during bot operation.
+
+Hermes does not intentionally collect information unrelated to its functionality.
+
+## 3. How Information Is Used
+Information processed by Hermes is used exclusively to:
+- Verify whether a user is authorized to access the bot.
+- Process messages and generate AI responses.
+- Maintain and troubleshoot the bot.
+- Improve the functionality and reliability of the system.
+
+## 4. Data Storage
+Hermes uses a locally hosted AI environment. Depending on its configuration, conversation history, logs, or other information may be stored locally on the owner's machine.
+
+Local hosting does not necessarily mean all data stays local. Discord and any external AI services or APIs used by Hermes may independently process information.
+
+## 5. Data Sharing
+Hermes does not intentionally sell or publicly distribute user conversations or personal information.
+
+Information may be transmitted to third-party services when required for Discord connectivity, AI processing, or other enabled integrations.
+
+Those services may process data under their own privacy policies.
+
+## 6. Data Retention & Deletion
+Conversation history, logs, and other stored information may be retained for as long as necessary for the bot's operation.
+
+Users can contact the bot owner to request the deletion of information stored locally by Hermes.
+
+Some information retained by Discord or third-party services may need to be deleted through those services separately.
+
+## 7. Security
+Reasonable measures are taken to restrict access to Hermes and its locally stored data.
+
+However, no system can guarantee complete security, and users should avoid sharing passwords, financial information, or other highly sensitive information.
+
+## 8. Policy Changes
+This Privacy Policy may be updated at any time. Changes will apply once the updated policy is published.
+
+## 9. Contact
+For privacy-related questions or data deletion requests, contact the owner of Hermes directly through Discord.
+
+---
+
+**Hermes is a private personal AI project. Your information is processed only to support its functionality, subject to the local configuration and third-party services involved.**
